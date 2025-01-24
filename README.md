@@ -64,7 +64,7 @@ This project provides a consultancy report for the merger of two companies, reco
 
 ### 💰 Cost Benefits of Moving to Azure
 1. Annual savings of **NOK 27,209,049** by moving storage to Azure Files.
-   ! [TCO Calculator Results for DFS System](https://umedaoqilova.github.io/Consultant-Project/assets/Results%20DFS%20system%20in%20TCO.png)   
+   ! [TCO Calculator Results for DFS System](assets/Results DFS system in TCO.png)   
 3.  Developer environment migration savings of **NOK 199,187,778** by utilizing Azure DevTest Labs for dynamic scaling.
    ! [TCO Calculator Results for Developer Environment](assets/Results of Developer env in TCO.png) 
 
