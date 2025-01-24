@@ -52,7 +52,7 @@ This project provides a consultancy report for the merger of two companies, reco
 - **On-Premises**:
   - Dual-location setup with segregated VLANs and replication mechanisms for disaster recovery.
   - **Network Topology**: Packet Tracer simulation showcasing the proposed on-prem infrastructure.
-  - ! [Network infrastructure in Packet Tracer](assets/network infra.png)
+  - ! [Network infrastructure in Packet Tracer] (<img width="552" alt="Image" src="https://github.com/user-attachments/assets/5437d9a7-3d32-4647-84b5-83dce176d889" />)
    
 - **Cloud Integration**:
   - Utilized Azure ExpressRoute for private connections between customer's on-premises environment and Azure cloud environment.
