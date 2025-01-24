@@ -40,14 +40,14 @@ This project provides a consultancy report for the merger of two companies, reco
 ### **Technologies Used**:
 - **On-Prem Tools**: Packet Tracer, Windows Server, VLANs, NAT, DNS, ACLs.
 - **Cloud Tools**: Azure DevTest Labs, Azure Files, RBAC, Azure TCO Calculator.
+- **Mind Map**: High-level visualization of the hybrid architecture plan.
+! [Project Map](assets/Project map.png)
 
 ### **Architecture Overview**:
 - **On-Premises**:
   - Dual-location setup with segregated VLANs and replication mechanisms for disaster recovery.
-- **Mind Map**: High-level visualization of the hybrid architecture plan.
-  - **[Project Map](Project map.png)**   
-- **Network Topology**: Packet Tracer simulation showcasing the proposed on-prem infrastructure.
-! [Network infrastructure in Packet Tracer](/./network infra.png)**
+  - **Network Topology**: Packet Tracer simulation showcasing the proposed on-prem infrastructure.
+! [Network infrastructure in Packet Tracer](assets/network infra.png)
    
 - **Cloud Integration**:
   - Utilized Azure ExpressRoute for private connections between customer's on-premises environment and Azure cloud environment.
@@ -59,9 +59,9 @@ This project provides a consultancy report for the merger of two companies, reco
 
 ### 💰 Cost Benefits of Moving to Azure
 1. Annual savings of **NOK 27,209,049** by moving storage to Azure Files.
-! [TCO Calculator Results for DFS System](Results DFS system in TCO.png)**   
+! [TCO Calculator Results for DFS System](assets/Results DFS system in TCO.png)   
 2.  Developer environment migration savings of **NOK 199,187,778** by utilizing Azure DevTest Labs for dynamic scaling.
-! [TCO Calculator Results for Developer Environment](Results of Developer env in TCO.png)** 
+! [TCO Calculator Results for Developer Environment](assets/Results of Developer env in TCO.png) 
 
 ### 🔑 How These Savings Are Achieved:
 - **Pay-as-You-Go Model**: Eliminates upfront capital expenses for hardware, replacing them with flexible operational costs that scale with usage.
