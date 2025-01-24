@@ -3,7 +3,7 @@
 # Hybrid Infrastructure for On-Premises and Cloud
  
 **Author**: Umeda Oqilova  
-📅 **Date**: Semester Project for On-Premises Computing Course (2024)  
+📅 **Date**: Project for On-Premises Computing Course (2024)  
 
 ---
 
