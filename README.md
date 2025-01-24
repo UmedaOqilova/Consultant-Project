@@ -47,7 +47,7 @@ This project provides a consultancy report for the merger of two companies, reco
 - **Mind Map**: High-level visualization of the hybrid architecture plan.
   - **[Project Map](Project map.png)**   
 - **Network Topology**: Packet Tracer simulation showcasing the proposed on-prem infrastructure.
-  - **[Network infrastructure in Packet Tracer](network infra.png)**
+! [Network infrastructure in Packet Tracer](/./network infra.png)**
    
 - **Cloud Integration**:
   - Utilized Azure ExpressRoute for private connections between customer's on-premises environment and Azure cloud environment.
@@ -58,10 +58,10 @@ This project provides a consultancy report for the merger of two companies, reco
 ## 📊 Results
 
 ### 💰 Cost Benefits of Moving to Azure
-- Annual savings of **NOK 27,209,049** by moving storage to Azure Files.
- **[TCO Calculator Results for DFS System](Results DFS system in TCO.png)**   
-- Developer environment migration savings of **NOK 199,187,778** by utilizing Azure DevTest Labs for dynamic scaling.
- **[TCO Calculator Results for Developer Environment](Results of Developer env in TCO.png)** 
+1. Annual savings of **NOK 27,209,049** by moving storage to Azure Files.
+! [TCO Calculator Results for DFS System](Results DFS system in TCO.png)**   
+2.  Developer environment migration savings of **NOK 199,187,778** by utilizing Azure DevTest Labs for dynamic scaling.
+! [TCO Calculator Results for Developer Environment](Results of Developer env in TCO.png)** 
 
 ### 🔑 How These Savings Are Achieved:
 - **Pay-as-You-Go Model**: Eliminates upfront capital expenses for hardware, replacing them with flexible operational costs that scale with usage.
