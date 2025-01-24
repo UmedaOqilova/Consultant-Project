@@ -47,6 +47,7 @@ This project provides a consultancy report for the merger of two companies, reco
 - **Cloud Tools**: Azure DevTest Labs, Azure Files, RBAC, Azure TCO Calculator.
 - **Mind Map**: High-level visualization of the hybrid architecture plan.
 
+
   <img width="482" alt="Image" src="https://github.com/user-attachments/assets/0d6ab922-a5ae-40f2-9dd0-59cd7b468f3e" />
 
 
@@ -54,7 +55,8 @@ This project provides a consultancy report for the merger of two companies, reco
 - **On-Premises**:
   - Dual-location setup with segregated VLANs and replication mechanisms for disaster recovery.
   - **Network Topology**: Packet Tracer simulation showcasing the proposed on-prem infrastructure.
-  
+
+
   <img width="552" alt="Image" src="https://github.com/user-attachments/assets/5437d9a7-3d32-4647-84b5-83dce176d889" />
 
    
@@ -70,12 +72,15 @@ This project provides a consultancy report for the merger of two companies, reco
 1. Annual savings of **NOK 27,209,049** by moving storage to Azure Files.
 **TCO Calculator Results for DFS System** 
 
-<img width="295" alt="Image" src="https://github.com/user-attachments/assets/ea9db560-ba55-4f43-9c46-28425c60eafe" />  
+
+      <img width="295" alt="Image" src="https://github.com/user-attachments/assets/ea9db560-ba55-4f43-9c46-28425c60eafe" />  
+
 
 2.  Developer environment migration savings of **NOK 199,187,778** by utilizing Azure DevTest Labs for dynamic scaling.
 **TCO Calculator Results for Developer Environment**
 
-<img width="283" alt="Image" src="https://github.com/user-attachments/assets/be2e21ef-a9c0-4506-b086-995e7dcdb9f3" /> 
+
+      <img width="283" alt="Image" src="https://github.com/user-attachments/assets/be2e21ef-a9c0-4506-b086-995e7dcdb9f3" /> 
 
 
 ### 🔑 How These Savings Are Achieved:
