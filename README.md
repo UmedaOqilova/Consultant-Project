@@ -3,7 +3,13 @@
 # Hybrid Infrastructure for On-Premises and Cloud
  
 **Author**: Umeda Oqilova  
-📅 **Date**: Project for On-Premises Computing Course (2024)  
+📅 **Date**: Project for On-Premises Computing Course (2024) 
+
+---
+
+## 📂 Project Files
+- **To get detailed information about the report with diagrams, cost analysis, and technical recommendations, please READ the report below.**
+- **[Consultancy Report (PDF)](Consultancy project - Umeda O..pdf)**: 
 
 ---
 
@@ -73,12 +79,6 @@ This project provides a consultancy report for the merger of two companies, reco
 - Azure’s advanced cost management tools, such as tagging for cost allocation, budget tracking, and real-time alerts, ensure resource efficiency and prevent overspending.
 
 By leveraging Azure’s hybrid infrastructure capabilities, critical workloads remain securely on-premises while non-sensitive workloads take full advantage of Azure’s scalability, cost efficiency, and availability. This approach aligns IT infrastructure with business growth objectives, enabling innovation and sustained success.
-
----
-
-## 📂 Project Files
-- **To read more and get detailed information about the report with diagrams, cost analysis, and technical recommendations, please READ the report below.**
-- **[Consultancy Report (PDF)](Consultancy project - Umeda O..pdf)**: 
 
 ---
 
