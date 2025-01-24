@@ -67,7 +67,7 @@ This project provides a consultancy report for the merger of two companies, reco
 
 ## 📂 Project Files
 
-- **[Consultancy Report (PDF)](FILE address)**: Detailed project report with diagrams, cost analysis, and technical recommendations.
+- **[Consultancy Report (PDF)](Consultancy project - Umeda O..pdf)**: Detailed project report with diagrams, cost analysis, and technical recommendations.
 - **Mind Map**: High-level visualization of the hybrid architecture plan.
 - **Network Topology**: Packet Tracer simulation showcasing the proposed on-prem infrastructure.
 
