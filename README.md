@@ -8,8 +8,7 @@
 ---
 
 ## 📂 Project Files
-- **To get detailed information about the report with diagrams, cost analysis, and technical recommendations, please READ the report below.**
-- **[Consultancy Report (PDF)](Consultancy project - Umeda O..pdf)**: 
+- **To get detailed information about the report with diagrams, cost analysis, and technical recommendations, please READ [consultancy report here (PDF)](Consultancy project - Umeda O..pdf)** 
 
 ---
 
@@ -47,13 +46,13 @@ This project provides a consultancy report for the merger of two companies, reco
 - **On-Prem Tools**: Packet Tracer, Windows Server, VLANs, NAT, DNS, ACLs.
 - **Cloud Tools**: Azure DevTest Labs, Azure Files, RBAC, Azure TCO Calculator.
 - **Mind Map**: High-level visualization of the hybrid architecture plan.
-! [Project Map](assets/Project map.png)
+- ! [Project Map](assets/Project map.png)
 
 ### **Architecture Overview**:
 - **On-Premises**:
   - Dual-location setup with segregated VLANs and replication mechanisms for disaster recovery.
   - **Network Topology**: Packet Tracer simulation showcasing the proposed on-prem infrastructure.
-! [Network infrastructure in Packet Tracer](assets/network infra.png)
+  - ! [Network infrastructure in Packet Tracer](assets/network infra.png)
    
 - **Cloud Integration**:
   - Utilized Azure ExpressRoute for private connections between customer's on-premises environment and Azure cloud environment.
@@ -65,9 +64,9 @@ This project provides a consultancy report for the merger of two companies, reco
 
 ### 💰 Cost Benefits of Moving to Azure
 1. Annual savings of **NOK 27,209,049** by moving storage to Azure Files.
-! [TCO Calculator Results for DFS System](assets/Results DFS system in TCO.png)   
-2.  Developer environment migration savings of **NOK 199,187,778** by utilizing Azure DevTest Labs for dynamic scaling.
-! [TCO Calculator Results for Developer Environment](assets/Results of Developer env in TCO.png) 
+   ! [TCO Calculator Results for DFS System](https://umedaoqilova.github.io/Consultant-Project/assets/Results%20DFS%20system%20in%20TCO.png)   
+3.  Developer environment migration savings of **NOK 199,187,778** by utilizing Azure DevTest Labs for dynamic scaling.
+   ! [TCO Calculator Results for Developer Environment](assets/Results of Developer env in TCO.png) 
 
 ### 🔑 How These Savings Are Achieved:
 - **Pay-as-You-Go Model**: Eliminates upfront capital expenses for hardware, replacing them with flexible operational costs that scale with usage.
